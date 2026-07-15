@@ -14,3 +14,4 @@ streamlit
 pandas
 numpy
 requests
+openai
